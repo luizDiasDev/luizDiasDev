@@ -2,8 +2,10 @@
 
 ###
 
+<img align="right" height="230" src="https://media.tenor.com/SRDuFks8igEAAAAi/kirby.gif" />
+
 <div align="left">
-  <img align="right" height="230" src="https://i.pinimg.com/originals/1d/a9/5f/1da95f2772172922fae47deb21ed74cc.gif" />
+  
   <h2 align="left">  
     
     - 🔭 Estudante de Engenhara de Software;
@@ -59,5 +61,5 @@
 ###
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/cf/23/d5/cf23d5c33ff1ad50cf49d02721b4b5e2.gif" width="1000" alt="banner-rain">
+  <img height="300" src="https://media.tenor.com/L4TD4MWFy40AAAAi/kirby.gif">
 </div>
