@@ -11,7 +11,7 @@
     
     - 🔭 Estudante de Engenhara de Software;
     - 🌐 Apaixonado por desenvolvimento web;
-    - 🔎 Buscando aprender mais sobre Git/Github;
+    - 🔎 Buscando aprender sobre Git/Github;
     - 📚 Atualmente estudando Java e Angular;
     - 💪 Adoro desafios;
     - 🔥 Grande fã de Dark Souls;
