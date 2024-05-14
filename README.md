@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img align="right" height="240" src="https://i.pinimg.com/originals/1d/a9/5f/1da95f2772172922fae47deb21ed74cc.gif" />
+  <img align="right" height="230" src="https://i.pinimg.com/originals/1d/a9/5f/1da95f2772172922fae47deb21ed74cc.gif" />
   <h2 align="left">  
     
     - 🔭 Estudante de Engenhara de Software;
