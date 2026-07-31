@@ -6,6 +6,16 @@
 💡 Apaixonado por resolver problemas através de software
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/luizedias/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
+  </a>
+  
+  <a href="mailto:luiz.dias602120@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"/>
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 Sobre mim
@@ -28,50 +38,23 @@ Fora do trabalho, continuo aprendendo através de projetos pessoais, buscando ev
 
 ## 📌 Projetos em destaque
 
-### 🎮 Deck-U
-Transforma o Steam Deck em um controle de Wii U para jogos de PC.
+### 🎮 DeckU
+Transforma o Steam Deck em um controle e uma segunda tela estilo Wii U GamePad para jogos no PC. Projeto pessoal criado para sair da zona de conforto e aprofundar Python, POO e arquitetura de software na prática.
 
-**Tecnologias utilizadas**
-- Python
-- evdev
-- Linux Input
-- Virtual Gamepad
-- ffmpeg
+**Tecnologias utilizadas:** Python · evdev · Linux Input · vgamepad · UDP Sockets · ffmpeg
+
+🔗 [DeckU-Client](https://github.com/luizDiasDev/DeckU-Client) — roda no Steam Deck, lê e envia os inputs do controle
+
+🔗 [DeckU-Server](https://github.com/luizDiasDev/DeckU-Server) — roda no PC, recebe os dados e cria o controle virtual
 
 ---
 
 ### 🏠 Home Automation
-Projeto de automação residencial utilizando ESP32, MicroPython, MQTT e Node-RED.
+Este projeto consiste em um sistema de automação residencial desenvolvido utilizando ESP32 com MicroPython, integrado com sensores, atuadores e serviços em nuvem para a disciplina de IOT.
 
-**Tecnologias utilizadas**
-- MicroPython
-- MQTT
-- ESP32
-- Node-RED
+**Tecnologias utilizadas:** MicroPython · MQTT · ESP32 · Node-RED
 
----
-
-## 🎯 Atualmente estudando
-
-- FastAPI
-- Docker
-- Arquitetura Backend
-- Testes automatizados
-- Boas práticas de desenvolvimento
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="mailto:luiz.dias602120@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/luizedias/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-  </a>
-</p>
+🔗 [Home-automation-ESP32](https://github.com/luizDiasDev/Home-automation-ESP32)
 
 ---
 
